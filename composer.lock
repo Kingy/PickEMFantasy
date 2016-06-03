@@ -1,0 +1,29 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "25d3d929144c5ebb5735387a89505588",
+    "content-hash": "52a73e8823437122aba3ec5b8b593c79",
+    "packages": [
+        {
+            "name": "SmItH197/SteamAuthentication",
+            "version": "1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/SmItH197/SteamAuthentication.git",
+                "reference": "master"
+            },
+            "type": "library"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

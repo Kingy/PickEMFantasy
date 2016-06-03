@@ -1,0 +1,19 @@
+{
+	"repositories": [
+		{
+			"type":"package",
+			"package": {
+				"name": "SmItH197/SteamAuthentication", 
+				"version": "1.0",
+				"source": {
+					"url": "https://github.com/SmItH197/SteamAuthentication.git",
+					"type": "git",
+					"reference": "master" 
+				}
+			}
+		}
+	],
+	"require" : {
+		"SmItH197/SteamAuthentication": "1.0"
+	}
+}
